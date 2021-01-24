@@ -13,7 +13,7 @@ OR if you don't have git installed on your machine
 
 you can run all the notebooks on a remote server just press the link below (no need to download notebooks in this case)
 
-run the notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreatramacere/Geneva_CTA_group_JetSeT_Course/HEAD)
+run the notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andreatramacere/Wuerzburg_Jetset_Lesson/HEAD)
 
 
 The jetset documentation (previous version: 1.1.2) is here:
